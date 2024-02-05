@@ -1,5 +1,7 @@
 # Custom files
 tallberg/**
+KrigingSolution/**
+DataOffline/**
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
